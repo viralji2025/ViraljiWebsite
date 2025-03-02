@@ -1,0 +1,16 @@
+   {
+    "name": "Viralji Website",
+    "host": "ftp.viralji.in",
+    "protocol": "ftp",
+    "port": 21,
+    "username": "u187739011",
+    "password": "aijYEFjUn5N!f78",
+    "remotePath": "/public_html/",
+    "uploadOnSave": true,
+    "ignore": [
+      ".git",
+      "node_modules",
+      "build"
+    ]
+  }
+  
